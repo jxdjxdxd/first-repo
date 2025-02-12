@@ -1,1 +1,4 @@
 file3
+some modify
+在VScode中修改了修改了这一行。
+在VScode中修改了修改了这一行。
